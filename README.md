@@ -1,3 +1,3 @@
 test-repo-third
 
-third-commit-5
+third-commit-6
